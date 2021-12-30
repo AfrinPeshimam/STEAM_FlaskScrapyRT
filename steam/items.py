@@ -44,9 +44,12 @@ def get_original_price(html_markup):
         ".//div[contains(@class, 'search_price discounted')]")
     if len(div_with_discount) > 0:
         original_price = div_with_discount.xpath(".//span/strike/text()").get()
+
     else:
         original_price = selector_obj.xpath(
             ".//div[contains(@class, 'search_price')]/text()").getall()
+
+    
 
     return original_price
 

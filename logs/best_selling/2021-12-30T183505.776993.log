@@ -1,0 +1,1101 @@
+2021-12-30 18:35:06 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/robots.txt> (referer: None) ['cached']
+2021-12-30 18:35:06 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/search/?filter=topsellers/> (referer: None) ['cached']
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': 'Counter-Strike: Global Offensive',
+ 'game_url': 'https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_sm_120.jpg?t=1635269541',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '21 Aug, 2012',
+ 'reviews_summary': 'Very Positive88% of the 6,106,079 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': 'Ready or Not',
+ 'game_url': 'https://store.steampowered.com/app/1144200/Ready_or_Not/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_sm_120.jpg?t=1639785519',
+ 'original_price': '₹ 1,299',
+ 'platforms': ['Windows'],
+ 'release_date': '17 Dec, 2021',
+ 'reviews_summary': 'Overwhelmingly Positive95% of the 15,850 user reviews for '
+                    'this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': 'Apex Legends™',
+ 'game_url': 'https://store.steampowered.com/app/1172470/Apex_Legends/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_sm_120.jpg?t=1638900075',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows'],
+ 'release_date': '4 Nov, 2020',
+ 'reviews_summary': 'Very Positive86% of the 366,128 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': 'Dota 2',
+ 'game_url': 'https://store.steampowered.com/app/570/Dota_2/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/570/capsule_sm_120.jpg?t=1639608963',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '9 Jul, 2013',
+ 'reviews_summary': 'Very Positive83% of the 1,644,839 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '10%',
+ 'discounted_price': '₹ 3,149',
+ 'game_name': 'Forza Horizon 5',
+ 'game_url': 'https://store.steampowered.com/app/1551360/Forza_Horizon_5/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_sm_120.jpg?t=1640271738',
+ 'original_price': '₹ 3,499',
+ 'platforms': ['Windows'],
+ 'release_date': '8 Nov, 2021',
+ 'reviews_summary': 'Very Positive86% of the 48,950 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 1,599',
+ 'game_name': 'Red Dead Redemption 2',
+ 'game_url': 'https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_sm_120.jpg?t=1618851907',
+ 'original_price': '₹ 3,199',
+ 'platforms': ['Windows'],
+ 'release_date': '5 Dec, 2019',
+ 'reviews_summary': 'Very Positive87% of the 208,660 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '60%',
+ 'discounted_price': '₹ 1,199',
+ 'game_name': 'FIFA 22',
+ 'game_url': 'https://store.steampowered.com/app/1506830/FIFA_22/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1506830/capsule_sm_120.jpg?t=1639481807',
+ 'original_price': '₹ 2,999',
+ 'platforms': ['Windows'],
+ 'release_date': '30 Sep, 2021',
+ 'reviews_summary': 'Very Positive81% of the 24,561 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '30%',
+ 'discounted_price': '₹ 839',
+ 'game_name': 'NARAKA: BLADEPOINT',
+ 'game_url': 'https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1203220/capsule_sm_120.jpg?t=1640229043',
+ 'original_price': '₹ 1,199',
+ 'platforms': ['Windows'],
+ 'release_date': '11 Aug, 2021',
+ 'reviews_summary': 'Very Positive80% of the 73,619 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 1,249',
+ 'game_name': 'It Takes Two',
+ 'game_url': 'https://store.steampowered.com/app/1426210/It_Takes_Two/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/capsule_sm_120.jpg?t=1639761395',
+ 'original_price': '₹ 2,499',
+ 'platforms': ['Windows'],
+ 'release_date': '25 Mar, 2021',
+ 'reviews_summary': 'Overwhelmingly Positive96% of the 54,060 user reviews for '
+                    'this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': 'Destiny 2',
+ 'game_url': 'https://store.steampowered.com/app/1085660/Destiny_2/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/capsule_sm_120.jpg?t=1638897108',
+ 'original_price': 'Free To Play',
+ 'platforms': ['Windows'],
+ 'release_date': '1 Oct, 2019',
+ 'reviews_summary': 'Very Positive84% of the 432,735 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': 'Grand Theft Auto V',
+ 'game_url': 'https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_sm_120.jpg?t=1618856444',
+ 'original_price': '',
+ 'platforms': ['Windows'],
+ 'release_date': '13 Apr, 2015',
+ 'reviews_summary': 'Very Positive84% of the 1,136,383 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': 'PUBG: BATTLEGROUNDS',
+ 'game_url': 'https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_sm_120.jpg?t=1640056613',
+ 'original_price': '₹ 999',
+ 'platforms': ['Windows'],
+ 'release_date': '21 Dec, 2017',
+ 'reviews_summary': 'Mixed54% of the 1,555,152 user reviews for this game are '
+                    'positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': 'Warframe',
+ 'game_url': 'https://store.steampowered.com/app/230410/Warframe/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/230410/capsule_sm_120.jpg?t=1640195799',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows'],
+ 'release_date': '25 Mar, 2013',
+ 'reviews_summary': 'Very Positive91% of the 460,130 user reviews for this '
+                    'game are positive.This product has experienced one or '
+                    'more periods of off-topic review activity.  Based on your '
+                    'preferences, the reviews within these periods have been '
+                    "excluded from this product's Review Score."}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '88%',
+ 'discounted_price': '₹ 299',
+ 'game_name': 'The Sims™ 4',
+ 'game_url': 'https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_sm_120.jpg?t=1638471912',
+ 'original_price': '₹ 2,499',
+ 'platforms': ['Windows'],
+ 'release_date': '18 Jun, 2020',
+ 'reviews_summary': 'Very Positive90% of the 33,699 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': "Five Nights at Freddy's: Security Breach",
+ 'game_url': 'https://store.steampowered.com/app/747660/Five_Nights_at_Freddys_Security_Breach/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/747660/capsule_sm_120.jpg?t=1639706417',
+ 'original_price': '₹ 899',
+ 'platforms': ['Windows'],
+ 'release_date': '16 Dec, 2021',
+ 'reviews_summary': 'Very Positive81% of the 12,816 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '80%',
+ 'discounted_price': '₹ 160',
+ 'game_name': 'The Witcher® 3: Wild Hunt',
+ 'game_url': 'https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_sm_120.jpg?t=1621939214',
+ 'original_price': '₹ 800',
+ 'platforms': ['Windows'],
+ 'release_date': '18 May, 2015',
+ 'reviews_summary': 'Overwhelmingly Positive97% of the 541,208 user reviews '
+                    'for this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '33%',
+ 'discounted_price': '₹ 602',
+ 'game_name': 'Rust',
+ 'game_url': 'https://store.steampowered.com/app/252490/Rust/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/252490/capsule_sm_120.jpg?t=1640216853',
+ 'original_price': '₹ 899',
+ 'platforms': ['Windows', 'Mac os'],
+ 'release_date': '8 Feb, 2018',
+ 'reviews_summary': 'Very Positive87% of the 579,024 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 449',
+ 'game_name': 'Sea of Thieves',
+ 'game_url': 'https://store.steampowered.com/app/1172620/Sea_of_Thieves/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/capsule_sm_120.jpg?t=1638484040',
+ 'original_price': '₹ 899',
+ 'platforms': ['Windows'],
+ 'release_date': '3 Jun, 2020',
+ 'reviews_summary': 'Very Positive90% of the 159,112 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '70%',
+ 'discounted_price': '₹ 479',
+ 'game_name': 'The Elder Scrolls® Online',
+ 'game_url': 'https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/306130/capsule_sm_120.jpg?t=1636601973',
+ 'original_price': '₹ 1,599',
+ 'platforms': ['Windows', 'Mac os'],
+ 'release_date': '22 May, 2017',
+ 'reviews_summary': 'Very Positive83% of the 92,573 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '10%',
+ 'discounted_price': '₹ 2,249',
+ 'game_name': 'Age of Empires IV',
+ 'game_url': 'https://store.steampowered.com/app/1466860/Age_of_Empires_IV/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1466860/capsule_sm_120.jpg?t=1639781270',
+ 'original_price': '₹ 2,499',
+ 'platforms': ['Windows'],
+ 'release_date': '28 Oct, 2021',
+ 'reviews_summary': 'Very Positive88% of the 20,378 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': 'Halo Infinite',
+ 'game_url': 'https://store.steampowered.com/app/1240440/Halo_Infinite/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1240440/capsule_sm_120.jpg?t=1639025793',
+ 'original_price': 'Free To Play',
+ 'platforms': ['Windows'],
+ 'release_date': '15 Nov, 2021',
+ 'reviews_summary': 'Mostly Positive79% of the 117,548 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '60%',
+ 'discounted_price': '₹ 399',
+ 'game_name': "Tom Clancy's Rainbow Six® Siege",
+ 'game_url': 'https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/359550/capsule_sm_120.jpg?t=1639409141',
+ 'original_price': '₹ 999',
+ 'platforms': ['Windows'],
+ 'release_date': '1 Dec, 2015',
+ 'reviews_summary': 'Very Positive87% of the 850,920 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 1,499',
+ 'game_name': 'Cyberpunk 2077',
+ 'game_url': 'https://store.steampowered.com/app/1091500/Cyberpunk_2077/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_sm_120.jpg?t=1621944801',
+ 'original_price': '₹ 2,999',
+ 'platforms': ['Windows'],
+ 'release_date': '9 Dec, 2020',
+ 'reviews_summary': 'Mostly Positive76% of the 422,400 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '33%',
+ 'discounted_price': '₹ 320',
+ 'game_name': 'Project Zomboid',
+ 'game_url': 'https://store.steampowered.com/app/108600/Project_Zomboid/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/108600/capsule_sm_120.jpg?t=1639992670',
+ 'original_price': '₹ 479',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '8 Nov, 2013',
+ 'reviews_summary': 'Very Positive91% of the 47,041 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 324',
+ 'game_name': 'Dead by Daylight',
+ 'game_url': 'https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_sm_120.jpg?t=1639165101',
+ 'original_price': '₹ 649',
+ 'platforms': ['Windows'],
+ 'release_date': '14 Jun, 2016',
+ 'reviews_summary': 'Very Positive82% of the 406,516 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': 'Farming Simulator 22',
+ 'game_url': 'https://store.steampowered.com/app/1248130/Farming_Simulator_22/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1248130/capsule_sm_120.jpg?t=1639475283',
+ 'original_price': '₹ 2,499',
+ 'platforms': ['Windows', 'Mac os'],
+ 'release_date': '21 Nov, 2021',
+ 'reviews_summary': 'Very Positive86% of the 13,774 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '85%',
+ 'discounted_price': '₹ 374',
+ 'game_name': 'Sid Meier’s Civilization® VI',
+ 'game_url': 'https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/289070/capsule_sm_120.jpg?t=1636653176',
+ 'original_price': '₹ 2,499',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '20 Oct, 2016',
+ 'reviews_summary': 'Very Positive83% of the 138,484 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 1,999',
+ 'game_name': 'Sekiro™: Shadows Die Twice - GOTY Edition',
+ 'game_url': 'https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_sm_120.jpg?t=1603904569',
+ 'original_price': '₹ 3,999',
+ 'platforms': ['Windows'],
+ 'release_date': '21 Mar, 2019',
+ 'reviews_summary': 'Very Positive94% of the 113,444 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '67%',
+ 'discounted_price': '₹ 428',
+ 'game_name': 'Forza Horizon 4',
+ 'game_url': 'https://store.steampowered.com/app/1293830/Forza_Horizon_4/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/capsule_sm_120.jpg?t=1622068013',
+ 'original_price': '₹ 1,299',
+ 'platforms': ['Windows'],
+ 'release_date': '9 Mar, 2021',
+ 'reviews_summary': 'Very Positive88% of the 98,996 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '10%',
+ 'discounted_price': '₹ 395',
+ 'game_name': 'Phasmophobia',
+ 'game_url': 'https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/739630/capsule_sm_120.jpg?t=1638041534',
+ 'original_price': '₹ 439',
+ 'platforms': ['Windows', 'VR Supported'],
+ 'release_date': '18 Sep, 2020',
+ 'reviews_summary': 'Overwhelmingly Positive97% of the 306,667 user reviews '
+                    'for this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '67%',
+ 'discounted_price': '₹ 1,319',
+ 'game_name': 'Call of Duty®: Black Ops III',
+ 'game_url': 'https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/311210/capsule_sm_120.jpg?t=1639696350',
+ 'original_price': '₹ 3,999',
+ 'platforms': ['Windows', 'Mac os'],
+ 'release_date': '5 Nov, 2015',
+ 'reviews_summary': 'Very Positive82% of the 56,962 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 241',
+ 'game_name': 'Euro Truck Simulator 2',
+ 'game_url': 'https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/227300/capsule_sm_120.jpg?t=1640274696',
+ 'original_price': '₹ 965',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '12 Oct, 2012',
+ 'reviews_summary': 'Overwhelmingly Positive97% of the 382,232 user reviews '
+                    'for this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '60%',
+ 'discounted_price': '₹ 719',
+ 'game_name': 'The Elder Scrolls V: Skyrim Special Edition',
+ 'game_url': 'https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/489830/capsule_sm_120.jpg?t=1636654357',
+ 'original_price': '₹ 1,799',
+ 'platforms': ['Windows'],
+ 'release_date': '27 Oct, 2016',
+ 'reviews_summary': 'Very Positive94% of the 91,643 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 212',
+ 'game_name': 'Stellaris',
+ 'game_url': 'https://store.steampowered.com/app/281990/Stellaris/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/281990/capsule_sm_120.jpg?t=1637597207',
+ 'original_price': '₹ 849',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '9 May, 2016',
+ 'reviews_summary': 'Very Positive87% of the 85,402 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '25%',
+ 'discounted_price': '₹ 396',
+ 'game_name': 'Valheim',
+ 'game_url': 'https://store.steampowered.com/app/892970/Valheim/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/892970/capsule_sm_120.jpg?t=1640164980',
+ 'original_price': '₹ 529',
+ 'platforms': ['Windows', 'Linux'],
+ 'release_date': '2 Feb, 2021',
+ 'reviews_summary': 'Overwhelmingly Positive95% of the 274,833 user reviews '
+                    'for this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '67%',
+ 'discounted_price': '₹ 230',
+ 'game_name': 'ARK: Survival Evolved',
+ 'game_url': 'https://store.steampowered.com/app/346110/ARK_Survival_Evolved/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/346110/capsule_sm_120.jpg?t=1640285270',
+ 'original_price': '₹ 699',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '27 Aug, 2017',
+ 'reviews_summary': 'Very Positive81% of the 390,510 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '20%',
+ 'discounted_price': '₹ 559',
+ 'game_name': 'Inscryption',
+ 'game_url': 'https://store.steampowered.com/app/1092790/Inscryption/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1092790/capsule_sm_120.jpg?t=1638325346',
+ 'original_price': '₹ 699',
+ 'platforms': ['Windows'],
+ 'release_date': '19 Oct, 2021',
+ 'reviews_summary': 'Overwhelmingly Positive96% of the 41,499 user reviews for '
+                    'this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 549',
+ 'game_name': 'Horizon Zero Dawn™ Complete Edition',
+ 'game_url': 'https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/capsule_sm_120.jpg?t=1635442187',
+ 'original_price': '₹ 1,099',
+ 'platforms': ['Windows'],
+ 'release_date': '7 Aug, 2020',
+ 'reviews_summary': 'Very Positive84% of the 49,516 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '25%',
+ 'discounted_price': '₹ 1,124',
+ 'game_name': 'New World',
+ 'game_url': 'https://store.steampowered.com/app/1063730/New_World/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1063730/capsule_sm_120.jpg?t=1639668270',
+ 'original_price': '₹ 1,499',
+ 'platforms': ['Windows'],
+ 'release_date': '28 Sep, 2021',
+ 'reviews_summary': 'Mixed69% of the 182,898 user reviews for this game are '
+                    'positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '60%',
+ 'discounted_price': '₹ 211',
+ 'game_name': 'The Forest',
+ 'game_url': 'https://store.steampowered.com/app/242760/The_Forest/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/242760/capsule_sm_120.jpg?t=1590522045',
+ 'original_price': '₹ 529',
+ 'platforms': ['Windows', 'VR Supported'],
+ 'release_date': '30 Apr, 2018',
+ 'reviews_summary': 'Overwhelmingly Positive95% of the 278,160 user reviews '
+                    'for this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': 'War Thunder',
+ 'game_url': 'https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/236390/capsule_sm_120.jpg?t=1640344550',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows', 'Mac os', 'Linux', 'VR Supported'],
+ 'release_date': '15 Aug, 2013',
+ 'reviews_summary': 'Mostly Positive79% of the 267,381 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '60%',
+ 'discounted_price': '₹ 1,199',
+ 'game_name': 'F1® 2021',
+ 'game_url': 'https://store.steampowered.com/app/1134570/F1_2021/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1134570/capsule_sm_120.jpg?t=1636296403',
+ 'original_price': '₹ 2,999',
+ 'platforms': ['Windows'],
+ 'release_date': '15 Jul, 2021',
+ 'reviews_summary': 'Very Positive85% of the 15,438 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 182',
+ 'game_name': 'Cities: Skylines',
+ 'game_url': 'https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/255710/capsule_sm_120.jpg?t=1639174147',
+ 'original_price': '₹ 729',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '10 Mar, 2015',
+ 'reviews_summary': 'Very Positive93% of the 133,644 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '40%',
+ 'discounted_price': '₹ 1,799',
+ 'game_name': 'Back 4 Blood',
+ 'game_url': 'https://store.steampowered.com/app/924970/Back_4_Blood/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/924970/capsule_sm_120.jpg?t=1639522452',
+ 'original_price': '₹ 2,999',
+ 'platforms': ['Windows'],
+ 'release_date': '12 Oct, 2021',
+ 'reviews_summary': 'Mixed66% of the 23,100 user reviews for this game are '
+                    'positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 212',
+ 'game_name': 'Hearts of Iron IV',
+ 'game_url': 'https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/394360/capsule_sm_120.jpg?t=1638870385',
+ 'original_price': '₹ 849',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '6 Jun, 2016',
+ 'reviews_summary': 'Very Positive92% of the 117,648 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 537',
+ 'game_name': 'Planet Zoo',
+ 'game_url': 'https://store.steampowered.com/app/703080/Planet_Zoo/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/703080/capsule_sm_120_alt_assets_1.jpg?t=1639557197',
+ 'original_price': '₹ 2,149',
+ 'platforms': ['Windows'],
+ 'release_date': '5 Nov, 2019',
+ 'reviews_summary': 'Very Positive89% of the 43,311 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 1,074',
+ 'game_name': 'DARK SOULS™ III',
+ 'game_url': 'https://store.steampowered.com/app/374320/DARK_SOULS_III/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/374320/capsule_sm_120.jpg?t=1638193506',
+ 'original_price': '₹ 4,299',
+ 'platforms': ['Windows'],
+ 'release_date': '11 Apr, 2016',
+ 'reviews_summary': 'Very Positive94% of the 197,476 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '33%',
+ 'discounted_price': '₹ 378',
+ 'game_name': 'Raft',
+ 'game_url': 'https://store.steampowered.com/app/648800/Raft/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/648800/capsule_sm_120.jpg?t=1635229387',
+ 'original_price': '₹ 565',
+ 'platforms': ['Windows'],
+ 'release_date': '23 May, 2018',
+ 'reviews_summary': 'Very Positive93% of the 128,320 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': 'Football Manager 2022',
+ 'game_url': 'https://store.steampowered.com/app/1569040/Football_Manager_2022/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1569040/capsule_sm_120.jpg?t=1638787050',
+ 'original_price': '₹ 2,799',
+ 'platforms': ['Windows', 'Mac os'],
+ 'release_date': '8 Nov, 2021',
+ 'reviews_summary': 'Very Positive92% of the 5,765 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_name': 'FINAL FANTASY XIV Online',
+ 'game_url': 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/?snr=1_7_7_230_150_1',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/39210/capsule_sm_120.jpg?t=1639672153',
+ 'original_price': '',
+ 'platforms': ['Windows'],
+ 'release_date': '18 Feb, 2014',
+ 'reviews_summary': 'Very Positive88% of the 47,332 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2> (referer: https://store.steampowered.com/search/?filter=topsellers/) ['cached']
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_name': 'Farming Simulator 22',
+ 'game_url': 'https://store.steampowered.com/app/1248130/Farming_Simulator_22/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1248130/capsule_sm_120.jpg?t=1639475283',
+ 'original_price': '₹ 2,499',
+ 'platforms': ['Windows', 'Mac os'],
+ 'release_date': '21 Nov, 2021',
+ 'reviews_summary': 'Very Positive86% of the 13,774 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '85%',
+ 'discounted_price': '₹ 374',
+ 'game_name': 'Sid Meier’s Civilization® VI',
+ 'game_url': 'https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/289070/capsule_sm_120.jpg?t=1636653176',
+ 'original_price': '₹ 2,499',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '20 Oct, 2016',
+ 'reviews_summary': 'Very Positive83% of the 138,484 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 1,999',
+ 'game_name': 'Sekiro™: Shadows Die Twice - GOTY Edition',
+ 'game_url': 'https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_sm_120.jpg?t=1603904569',
+ 'original_price': '₹ 3,999',
+ 'platforms': ['Windows'],
+ 'release_date': '21 Mar, 2019',
+ 'reviews_summary': 'Very Positive94% of the 113,444 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '67%',
+ 'discounted_price': '₹ 428',
+ 'game_name': 'Forza Horizon 4',
+ 'game_url': 'https://store.steampowered.com/app/1293830/Forza_Horizon_4/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/capsule_sm_120.jpg?t=1622068013',
+ 'original_price': '₹ 1,299',
+ 'platforms': ['Windows'],
+ 'release_date': '9 Mar, 2021',
+ 'reviews_summary': 'Very Positive88% of the 98,996 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '10%',
+ 'discounted_price': '₹ 395',
+ 'game_name': 'Phasmophobia',
+ 'game_url': 'https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/739630/capsule_sm_120.jpg?t=1638041534',
+ 'original_price': '₹ 439',
+ 'platforms': ['Windows', 'VR Supported'],
+ 'release_date': '18 Sep, 2020',
+ 'reviews_summary': 'Overwhelmingly Positive97% of the 306,667 user reviews '
+                    'for this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '67%',
+ 'discounted_price': '₹ 1,319',
+ 'game_name': 'Call of Duty®: Black Ops III',
+ 'game_url': 'https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/311210/capsule_sm_120.jpg?t=1639696350',
+ 'original_price': '₹ 3,999',
+ 'platforms': ['Windows', 'Mac os'],
+ 'release_date': '5 Nov, 2015',
+ 'reviews_summary': 'Very Positive82% of the 56,962 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 241',
+ 'game_name': 'Euro Truck Simulator 2',
+ 'game_url': 'https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/227300/capsule_sm_120.jpg?t=1640274696',
+ 'original_price': '₹ 965',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '12 Oct, 2012',
+ 'reviews_summary': 'Overwhelmingly Positive97% of the 382,232 user reviews '
+                    'for this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '60%',
+ 'discounted_price': '₹ 719',
+ 'game_name': 'The Elder Scrolls V: Skyrim Special Edition',
+ 'game_url': 'https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/489830/capsule_sm_120.jpg?t=1636654357',
+ 'original_price': '₹ 1,799',
+ 'platforms': ['Windows'],
+ 'release_date': '27 Oct, 2016',
+ 'reviews_summary': 'Very Positive94% of the 91,643 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 212',
+ 'game_name': 'Stellaris',
+ 'game_url': 'https://store.steampowered.com/app/281990/Stellaris/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/281990/capsule_sm_120.jpg?t=1637597207',
+ 'original_price': '₹ 849',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '9 May, 2016',
+ 'reviews_summary': 'Very Positive87% of the 85,402 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '25%',
+ 'discounted_price': '₹ 396',
+ 'game_name': 'Valheim',
+ 'game_url': 'https://store.steampowered.com/app/892970/Valheim/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/892970/capsule_sm_120.jpg?t=1640164980',
+ 'original_price': '₹ 529',
+ 'platforms': ['Windows', 'Linux'],
+ 'release_date': '2 Feb, 2021',
+ 'reviews_summary': 'Overwhelmingly Positive95% of the 274,833 user reviews '
+                    'for this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '67%',
+ 'discounted_price': '₹ 230',
+ 'game_name': 'ARK: Survival Evolved',
+ 'game_url': 'https://store.steampowered.com/app/346110/ARK_Survival_Evolved/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/346110/capsule_sm_120.jpg?t=1640285270',
+ 'original_price': '₹ 699',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '27 Aug, 2017',
+ 'reviews_summary': 'Very Positive81% of the 390,510 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '20%',
+ 'discounted_price': '₹ 559',
+ 'game_name': 'Inscryption',
+ 'game_url': 'https://store.steampowered.com/app/1092790/Inscryption/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1092790/capsule_sm_120.jpg?t=1638325346',
+ 'original_price': '₹ 699',
+ 'platforms': ['Windows'],
+ 'release_date': '19 Oct, 2021',
+ 'reviews_summary': 'Overwhelmingly Positive96% of the 41,499 user reviews for '
+                    'this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 549',
+ 'game_name': 'Horizon Zero Dawn™ Complete Edition',
+ 'game_url': 'https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/capsule_sm_120.jpg?t=1635442187',
+ 'original_price': '₹ 1,099',
+ 'platforms': ['Windows'],
+ 'release_date': '7 Aug, 2020',
+ 'reviews_summary': 'Very Positive84% of the 49,516 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '25%',
+ 'discounted_price': '₹ 1,124',
+ 'game_name': 'New World',
+ 'game_url': 'https://store.steampowered.com/app/1063730/New_World/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1063730/capsule_sm_120.jpg?t=1639668270',
+ 'original_price': '₹ 1,499',
+ 'platforms': ['Windows'],
+ 'release_date': '28 Sep, 2021',
+ 'reviews_summary': 'Mixed69% of the 182,898 user reviews for this game are '
+                    'positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '60%',
+ 'discounted_price': '₹ 211',
+ 'game_name': 'The Forest',
+ 'game_url': 'https://store.steampowered.com/app/242760/The_Forest/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/242760/capsule_sm_120.jpg?t=1590522045',
+ 'original_price': '₹ 529',
+ 'platforms': ['Windows', 'VR Supported'],
+ 'release_date': '30 Apr, 2018',
+ 'reviews_summary': 'Overwhelmingly Positive95% of the 278,160 user reviews '
+                    'for this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_name': 'War Thunder',
+ 'game_url': 'https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/236390/capsule_sm_120.jpg?t=1640344550',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows', 'Mac os', 'Linux', 'VR Supported'],
+ 'release_date': '15 Aug, 2013',
+ 'reviews_summary': 'Mostly Positive79% of the 267,381 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '60%',
+ 'discounted_price': '₹ 1,199',
+ 'game_name': 'F1® 2021',
+ 'game_url': 'https://store.steampowered.com/app/1134570/F1_2021/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1134570/capsule_sm_120.jpg?t=1636296403',
+ 'original_price': '₹ 2,999',
+ 'platforms': ['Windows'],
+ 'release_date': '15 Jul, 2021',
+ 'reviews_summary': 'Very Positive85% of the 15,438 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 182',
+ 'game_name': 'Cities: Skylines',
+ 'game_url': 'https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/255710/capsule_sm_120.jpg?t=1639174147',
+ 'original_price': '₹ 729',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '10 Mar, 2015',
+ 'reviews_summary': 'Very Positive93% of the 133,644 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '40%',
+ 'discounted_price': '₹ 1,799',
+ 'game_name': 'Back 4 Blood',
+ 'game_url': 'https://store.steampowered.com/app/924970/Back_4_Blood/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/924970/capsule_sm_120.jpg?t=1639522452',
+ 'original_price': '₹ 2,999',
+ 'platforms': ['Windows'],
+ 'release_date': '12 Oct, 2021',
+ 'reviews_summary': 'Mixed66% of the 23,100 user reviews for this game are '
+                    'positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 212',
+ 'game_name': 'Hearts of Iron IV',
+ 'game_url': 'https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/394360/capsule_sm_120.jpg?t=1638870385',
+ 'original_price': '₹ 849',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '6 Jun, 2016',
+ 'reviews_summary': 'Very Positive92% of the 117,648 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 537',
+ 'game_name': 'Planet Zoo',
+ 'game_url': 'https://store.steampowered.com/app/703080/Planet_Zoo/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/703080/capsule_sm_120_alt_assets_1.jpg?t=1639557197',
+ 'original_price': '₹ 2,149',
+ 'platforms': ['Windows'],
+ 'release_date': '5 Nov, 2019',
+ 'reviews_summary': 'Very Positive89% of the 43,311 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 1,074',
+ 'game_name': 'DARK SOULS™ III',
+ 'game_url': 'https://store.steampowered.com/app/374320/DARK_SOULS_III/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/374320/capsule_sm_120.jpg?t=1638193506',
+ 'original_price': '₹ 4,299',
+ 'platforms': ['Windows'],
+ 'release_date': '11 Apr, 2016',
+ 'reviews_summary': 'Very Positive94% of the 197,476 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '33%',
+ 'discounted_price': '₹ 378',
+ 'game_name': 'Raft',
+ 'game_url': 'https://store.steampowered.com/app/648800/Raft/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/648800/capsule_sm_120.jpg?t=1635229387',
+ 'original_price': '₹ 565',
+ 'platforms': ['Windows'],
+ 'release_date': '23 May, 2018',
+ 'reviews_summary': 'Very Positive93% of the 128,320 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_name': 'Football Manager 2022',
+ 'game_url': 'https://store.steampowered.com/app/1569040/Football_Manager_2022/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1569040/capsule_sm_120.jpg?t=1638787050',
+ 'original_price': '₹ 2,799',
+ 'platforms': ['Windows', 'Mac os'],
+ 'release_date': '8 Nov, 2021',
+ 'reviews_summary': 'Very Positive92% of the 5,765 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_name': 'FINAL FANTASY XIV Online',
+ 'game_url': 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/?snr=1_7_7_230_150_2',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/39210/capsule_sm_120.jpg?t=1639672153',
+ 'original_price': '',
+ 'platforms': ['Windows'],
+ 'release_date': '18 Feb, 2014',
+ 'reviews_summary': 'Very Positive88% of the 47,332 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3> (referer: https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2) ['cached']
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 747',
+ 'game_name': 'Borderlands 3',
+ 'game_url': 'https://store.steampowered.com/app/397540/Borderlands_3/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/397540/capsule_sm_120.jpg?t=1632421688',
+ 'original_price': '₹ 2,990',
+ 'platforms': ['Windows'],
+ 'release_date': '13 Mar, 2020',
+ 'reviews_summary': 'Very Positive84% of the 71,608 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '30%',
+ 'discounted_price': '₹ 1,609',
+ 'game_name': 'Tales of Arise',
+ 'game_url': 'https://store.steampowered.com/app/740130/Tales_of_Arise/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/740130/capsule_sm_120.jpg?t=1639774813',
+ 'original_price': '₹ 2,299',
+ 'platforms': ['Windows'],
+ 'release_date': '9 Sep, 2021',
+ 'reviews_summary': 'Very Positive91% of the 14,097 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 749',
+ 'game_name': 'Hunt: Showdown',
+ 'game_url': 'https://store.steampowered.com/app/594650/Hunt_Showdown/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/594650/capsule_sm_120_alt_assets_18.jpg?t=1639631108',
+ 'original_price': '₹ 1,499',
+ 'platforms': ['Windows'],
+ 'release_date': '27 Aug, 2019',
+ 'reviews_summary': 'Very Positive84% of the 88,743 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 1,649',
+ 'game_name': 'NBA 2K22',
+ 'game_url': 'https://store.steampowered.com/app/1644960/NBA_2K22/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1644960/capsule_sm_120.jpg?t=1638547501',
+ 'original_price': '₹ 3,299',
+ 'platforms': ['Windows'],
+ 'release_date': '9 Sep, 2021',
+ 'reviews_summary': 'Mixed50% of the 9,315 user reviews for this game are '
+                    'positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '20%',
+ 'discounted_price': '₹ 367',
+ 'game_name': 'Escape Simulator',
+ 'game_url': 'https://store.steampowered.com/app/1435790/Escape_Simulator/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1435790/capsule_sm_120_alt_assets_0.jpg?t=1640545800',
+ 'original_price': '₹ 459',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '19 Oct, 2021',
+ 'reviews_summary': 'Overwhelmingly Positive95% of the 2,610 user reviews for '
+                    'this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '30%',
+ 'discounted_price': '₹ 1,714',
+ 'game_name': 'Jurassic World Evolution 2',
+ 'game_url': 'https://store.steampowered.com/app/1244460/Jurassic_World_Evolution_2/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1244460/capsule_sm_120.jpg?t=1639065533',
+ 'original_price': '₹ 2,449',
+ 'platforms': ['Windows'],
+ 'release_date': '9 Nov, 2021',
+ 'reviews_summary': 'Mostly Positive79% of the 5,772 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '76%',
+ 'discounted_price': '₹ 126',
+ 'game_name': 'theHunter: Call of the Wild™',
+ 'game_url': 'https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/518790/capsule_sm_120.jpg?t=1638871469',
+ 'original_price': '₹ 529',
+ 'platforms': ['Windows'],
+ 'release_date': '16 Feb, 2017',
+ 'reviews_summary': 'Very Positive86% of the 81,915 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '34%',
+ 'discounted_price': '₹ 1,648',
+ 'game_name': 'Monster Hunter: World',
+ 'game_url': 'https://store.steampowered.com/app/582010/Monster_Hunter_World/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_sm_120.jpg?t=1623978557',
+ 'original_price': '₹ 2,497',
+ 'platforms': ['Windows'],
+ 'release_date': '9 Aug, 2018',
+ 'reviews_summary': 'Very Positive86% of the 205,210 user reviews for this '
+                    'game are positive.This product has experienced one or '
+                    'more periods of off-topic review activity.  Based on your '
+                    'preferences, the reviews within these periods have been '
+                    "excluded from this product's Review Score."}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 1,499',
+ 'game_name': 'Mass Effect™ Legendary Edition',
+ 'game_url': 'https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1328670/capsule_sm_120.jpg?t=1627595040',
+ 'original_price': '₹ 2,999',
+ 'platforms': ['Windows'],
+ 'release_date': '14 May, 2021',
+ 'reviews_summary': 'Very Positive93% of the 22,086 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '25%',
+ 'discounted_price': '₹ 731',
+ 'game_name': 'GTFO',
+ 'game_url': 'https://store.steampowered.com/app/493520/GTFO/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/493520/capsule_sm_120.jpg?t=1640182447',
+ 'original_price': '₹ 975',
+ 'platforms': ['Windows'],
+ 'release_date': '9 Dec, 2021',
+ 'reviews_summary': 'Very Positive88% of the 24,381 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '35%',
+ 'discounted_price': '₹ 1,949',
+ 'game_name': "Marvel's Guardians of the Galaxy",
+ 'game_url': 'https://store.steampowered.com/app/1088850/Marvels_Guardians_of_the_Galaxy/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1088850/capsule_sm_120.jpg?t=1640081166',
+ 'original_price': '₹ 2,999',
+ 'platforms': ['Windows'],
+ 'release_date': '26 Oct, 2021',
+ 'reviews_summary': 'Overwhelmingly Positive95% of the 11,052 user reviews for '
+                    'this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_name': 'World of Warships',
+ 'game_url': 'https://store.steampowered.com/app/552990/World_of_Warships/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/552990/capsule_sm_120.jpg?t=1640242732',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows'],
+ 'release_date': '15 Nov, 2017',
+ 'reviews_summary': 'Very Positive80% of the 93,486 user reviews for this game '
+                    'are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 1,399',
+ 'game_name': 'DayZ',
+ 'game_url': 'https://store.steampowered.com/app/221100/DayZ/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/221100/capsule_sm_120_alt_assets_16.jpg?t=1639750652',
+ 'original_price': '₹ 2,799',
+ 'platforms': ['Windows'],
+ 'release_date': '13 Dec, 2018',
+ 'reviews_summary': 'Mostly Positive70% of the 239,859 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 649',
+ 'game_name': 'Half-Life: Alyx',
+ 'game_url': 'https://store.steampowered.com/app/546560/HalfLife_Alyx/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/546560/capsule_sm_120.jpg?t=1635876995',
+ 'original_price': '₹ 1,299',
+ 'platforms': ['Windows'],
+ 'release_date': '23 Mar, 2020',
+ 'reviews_summary': 'Overwhelmingly Positive98% of the 55,504 user reviews for '
+                    'this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 349',
+ 'game_name': 'Deep Rock Galactic',
+ 'game_url': 'https://store.steampowered.com/app/548430/Deep_Rock_Galactic/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/548430/capsule_sm_120.jpg?t=1639408350',
+ 'original_price': '₹ 699',
+ 'platforms': ['Windows'],
+ 'release_date': '13 May, 2020',
+ 'reviews_summary': 'Overwhelmingly Positive97% of the 92,721 user reviews for '
+                    'this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 264',
+ 'game_name': 'Fall Guys: Ultimate Knockout',
+ 'game_url': 'https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1097150/capsule_sm_120.jpg?t=1638450135',
+ 'original_price': '₹ 529',
+ 'platforms': ['Windows'],
+ 'release_date': '3 Aug, 2020',
+ 'reviews_summary': 'Very Positive82% of the 365,371 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 449',
+ 'game_name': 'Halo: The Master Chief Collection',
+ 'game_url': 'https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/976730/capsule_sm_120.jpg?t=1634144453',
+ 'original_price': '₹ 899',
+ 'platforms': ['Windows'],
+ 'release_date': '3 Dec, 2019',
+ 'reviews_summary': 'Very Positive92% of the 163,313 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '66%',
+ 'discounted_price': '₹ 917',
+ 'game_name': 'Total War: WARHAMMER II',
+ 'game_url': 'https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/594570/capsule_sm_120.jpg?t=1632304425',
+ 'original_price': '₹ 2,699',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '28 Sep, 2017',
+ 'reviews_summary': 'Very Positive93% of the 73,444 user reviews for this game '
+                    'are positive.This product has experienced one or more '
+                    'periods of off-topic review activity.  Based on your '
+                    'preferences, the reviews within these periods have been '
+                    "excluded from this product's Review Score."}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '30%',
+ 'discounted_price': '₹ 524',
+ 'game_name': 'Satisfactory',
+ 'game_url': 'https://store.steampowered.com/app/526870/Satisfactory/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/526870/capsule_sm_120.jpg?t=1637686926',
+ 'original_price': '₹ 749',
+ 'platforms': ['Windows'],
+ 'release_date': '8 Jun, 2020',
+ 'reviews_summary': 'Overwhelmingly Positive97% of the 72,710 user reviews for '
+                    'this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '30%',
+ 'discounted_price': '₹ 335',
+ 'game_name': 'Stardew Valley',
+ 'game_url': 'https://store.steampowered.com/app/413150/Stardew_Valley/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_sm_120.jpg?t=1608624324',
+ 'original_price': '₹ 479',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '26 Feb, 2016',
+ 'reviews_summary': 'Overwhelmingly Positive98% of the 357,070 user reviews '
+                    'for this game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '10%',
+ 'discounted_price': '₹ 629',
+ 'game_name': 'ICARUS',
+ 'game_url': 'https://store.steampowered.com/app/1149460/ICARUS/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1149460/capsule_sm_120.jpg?t=1640055282',
+ 'original_price': '₹ 699',
+ 'platforms': ['Windows'],
+ 'release_date': '3 Dec, 2021',
+ 'reviews_summary': 'Mixed62% of the 14,743 user reviews for this game are '
+                    'positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_name': 'Team Fortress 2',
+ 'game_url': 'https://store.steampowered.com/app/440/Team_Fortress_2/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/440/capsule_sm_120.jpg?t=1592263852',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows', 'Mac os', 'Linux'],
+ 'release_date': '10 Oct, 2007',
+ 'reviews_summary': 'Very Positive93% of the 837,043 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 999',
+ 'game_name': 'DOOM Eternal',
+ 'game_url': 'https://store.steampowered.com/app/782330/DOOM_Eternal/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/782330/capsule_sm_120.jpg?t=1639072952',
+ 'original_price': '₹ 3,999',
+ 'platforms': ['Windows'],
+ 'release_date': '19 Mar, 2020',
+ 'reviews_summary': 'Very Positive90% of the 127,165 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '20%',
+ 'discounted_price': '₹ 3,199',
+ 'game_name': 'Microsoft Flight Simulator Game of the Year Edition',
+ 'game_url': 'https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator_Game_of_the_Year_Edition/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1250410/capsule_sm_120.jpg?t=1639781348',
+ 'original_price': '₹ 3,999',
+ 'platforms': ['Windows', 'VR Supported'],
+ 'release_date': '17 Apr, 2020',
+ 'reviews_summary': 'Mostly Positive75% of the 31,192 user reviews for this '
+                    'game are positive.'}
+2021-12-30 18:35:06 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '35%',
+ 'discounted_price': '₹ 369',
+ 'game_name': 'Hades',
+ 'game_url': 'https://store.steampowered.com/app/1145360/Hades/?snr=1_7_7_230_150_3',
+ 'img_url': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/capsule_sm_120.jpg?t=1624463563',
+ 'original_price': '₹ 569',
+ 'platforms': ['Windows', 'Mac os'],
+ 'release_date': '17 Sep, 2020',
+ 'reviews_summary': 'Overwhelmingly Positive98% of the 159,668 user reviews '
+                    'for this game are positive.'}
+2021-12-30 18:35:06 [scrapy] INFO: Closing spider (closespider_itemcount)
+2021-12-30 18:35:06 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1396,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 4,
+ 'downloader/response_bytes': 116330,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 4,
+ 'elapsed_time_seconds': 0.767088,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2021, 12, 30, 13, 5, 6, 987394),
+ 'httpcache/hit': 4,
+ 'httpcompression/response_bytes': 1716713,
+ 'httpcompression/response_count': 3,
+ 'item_scraped_count': 100,
+ 'log_count/DEBUG': 106,
+ 'log_count/INFO': 7,
+ 'request_depth_max': 3,
+ 'response_received_count': 4,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2021, 12, 30, 13, 5, 6, 220306)}
+2021-12-30 18:35:06 [scrapy] INFO: Spider closed (closespider_itemcount)
